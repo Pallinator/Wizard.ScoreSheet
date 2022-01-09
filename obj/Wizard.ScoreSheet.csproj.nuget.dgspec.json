@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pallinator\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj": {}
+    "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pallinator\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj": {
+    "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pallinator\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
+        "projectUniqueName": "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
         "projectName": "Wizard.ScoreSheet",
-        "projectPath": "C:\\Users\\Pallinator\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
-        "packagesPath": "C:\\Users\\Pallinator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pallinator\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet\\obj\\",
+        "projectPath": "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
+        "packagesPath": "C:\\Users\\bbric\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pallinator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bbric\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,12 +45,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -59,15 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -34,6 +34,48 @@ namespace Wizard.ScoreSheet.Controllers
             
         }
 
+        // this method takes in an argument
+        public PlayerModel UpdatePlayerScore(PlayerModel player, int tricks) // <--- this is called an argument 
+        {
+            // this method will update an individual players score, we will probably want another method that updates all players scores as well
+            // calculate the difference between trick and bids
+            int guessDifference = player.Bid - tricks;
+            // if the diffference is 0 then the player won the bids they guessed this round -- so their score increases
+            if (guessDifference == 0)
+            {
+                // to add onto the player's score, you can call the current player's score in the equation and then add the points
+                player.Score = player.Score + (player.Bid * 20);
+            }
+            else
+            {
+                // if the player didn't guess the right amount of bids their score gets negatively impacted; Math has a lot of built in functions to simplify coding, like below Math.Abs gets the absolute value
+                player.Score = player.Score - (Math.Abs(guessDifference) * 10);
+            }
+
+            // here we are returning the player again with the updated score
+            return player;
+        }
+
+        // Pseudo code the logic you think needs to happen to update a bid
+        public void UpdatePlayerBid() // <--- what arguments will you need to take in to update the player's bid
+        {
+            // this probably won't need a method on it's ow but try to map out the how to update the bid
+
+        }
+
+        // end of round
+        public void UpdateEndOfRound(List<PlayerModel> players)
+        {
+            // update dealer
+            // update scores
+            // clear bids
+            // clear tricks
+
+        }
+
+
+
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
