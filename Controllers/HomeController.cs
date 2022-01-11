@@ -57,22 +57,39 @@ namespace Wizard.ScoreSheet.Controllers
         }
 
         // Pseudo code the logic you think needs to happen to update a bid
-        public void UpdatePlayerBid() // <--- what arguments will you need to take in to update the player's bid
+        public void UpdatePlayerBid(PlayerModel player, int bids) // <--- what arguments will you need to take in to update the player's bid
         {
             // this probably won't need a method on it's ow but try to map out the how to update the bid
 
+            player.CurrentBid = bids;
+
+            return;
         }
 
         // end of round
         public void UpdateEndOfRound(List<PlayerModel> players)
         {
+            int currentDealerId = 0;
+            int currentPlayer = 0;
+            foreach (PlayerModel player in players)
+            {
+                if (player.Dealer == true)
+                {
+                    currentDealerId = players.Count()-- = currentPlayer ? 0 : currentPlayer++;
+
+                    
+
+
+                }
+                
+            }
             // update dealer
+            
             // update scores
             // clear bids
             // clear tricks
 
         }
-
 
 
 
