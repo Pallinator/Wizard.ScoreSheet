@@ -28,7 +28,7 @@ namespace Wizard.ScoreSheet.Controllers
                 string innerScope = "this can't be accessed outside of this if statement";
 	        } else
             {
-                string elseScope = "this can only be seen inside the else statement"
+                string elseScope = "this can only be seen inside the else statement";
             }
 
             
@@ -84,10 +84,34 @@ namespace Wizard.ScoreSheet.Controllers
                 
             }
             // update dealer
-            
+            public bool UpdateDealer(PlayerModel players)
+            {
+                bool player1 = false;
+                bool currentDealerId = true;
+                bool player2 = false;
+                bool player3 = false;
+                bool player4 = false;
+                bool player5 = false;
+            }
             // update scores
+            public int UpdatePlayerScore(PlayerModel players)
+            {
+                m=> UpdatePlayerScore(players, UpdatePlayerScore=)
+                 
+            }
+                
             // clear bids
+            public int ClearPlayersBids(List<PlayerModel> players)
+            {
+               (ClearPlayersBids == 0)
+            }
+
             // clear tricks
+            public int ClearPlayersTricks(List<PlayerModel> players)
+            {
+               (ClearPlayersTricks == 0)
+            }
+
 
         }
 

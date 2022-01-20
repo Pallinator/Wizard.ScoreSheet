@@ -5,7 +5,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "634aee4f-d127-4cbf-9cfa-59647efda08f": {
+      "ProjectGuid": "634aee4f-d127-4cbf-9cfa-59647efda08f",
+      "DisplayName": "Wizard.ScoreSheet",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }
