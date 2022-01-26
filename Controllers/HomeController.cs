@@ -16,7 +16,7 @@ namespace Wizard.ScoreSheet.Controllers
             // outer variable
             PlayerModel insideFunction = new PlayerModel();
 
-            if (globalPlayers.Count() = 0)
+            if (globalPlayers.Count() == 0)
 	        {
                 insideFunction.PlayerName = "Paul"; // playerName.Value(); -- Dynamic variable, a variable that can changed based on user input or function logic
                 insideFunction.PlayerTurn = false;
@@ -39,17 +39,17 @@ namespace Wizard.ScoreSheet.Controllers
         {
             // this method will update an individual players score, we will probably want another method that updates all players scores as well
             // calculate the difference between trick and bids
-            int guessDifference = player.Bid - tricks;
+            int guessDifference = player.CurrentBid - tricks;
             // if the diffference is 0 then the player won the bids they guessed this round -- so their score increases
             if (guessDifference == 0)
             {
                 // to add onto the player's score, you can call the current player's score in the equation and then add the points
-                player.Score = player.Score + (player.Bid * 20);
+                player.CurrentScore = player.CurrentScore + (player.CurrentBid * 20);
             }
             else
             {
                 // if the player didn't guess the right amount of bids their score gets negatively impacted; Math has a lot of built in functions to simplify coding, like below Math.Abs gets the absolute value
-                player.Score = player.Score - (Math.Abs(guessDifference) * 10);
+                player.CurrentScore = player.CurrentScore - (Math.Abs(guessDifference) * 10);
             }
 
             // here we are returning the player again with the updated score
@@ -67,55 +67,35 @@ namespace Wizard.ScoreSheet.Controllers
         }
 
         // end of round
-        public void UpdateEndOfRound(List<PlayerModel> players)
+        public void UpdateEndOfRound(List<PlayerModel> players, int tricks)
         {
             int currentDealerId = 0;
             int currentPlayer = 0;
+            // update dealer
             foreach (PlayerModel player in players)
             {
                 if (player.Dealer == true)
                 {
-                    currentDealerId = players.Count()-- = currentPlayer ? 0 : currentPlayer++;
-
+                    currentDealerId = (players.Count() - 1) == currentPlayer ? 0 : currentPlayer++;
                     
-
-
+                    player.Dealer = false;
                 }
-                
-            }
-            // update dealer
-            public bool UpdateDealer(PlayerModel players)
-            {
-                bool player1 = false;
-                bool currentDealerId = true;
-                bool player2 = false;
-                bool player3 = false;
-                bool player4 = false;
-                bool player5 = false;
-            }
-            // update scores
-            public int UpdatePlayerScore(PlayerModel players)
-            {
-                m=> UpdatePlayerScore(players, UpdatePlayerScore=)
-                 
-            }
-                
-            // clear bids
-            public int ClearPlayersBids(List<PlayerModel> players)
-            {
-               (ClearPlayersBids == 0)
+
+                UpdatePlayerScore(player, tricks);
+
+                player.CurrentBid=0;
+
+                currentPlayer = currentPlayer++;
             }
 
-            // clear tricks
-            public int ClearPlayersTricks(List<PlayerModel> players)
-            {
-               (ClearPlayersTricks == 0)
-            }
+            players[currentDealerId].Dealer = true;
 
+            // clear global tricks variable
+            
+        }     
 
-        }
-
-
+        // update dealer
+        
 
         public HomeController(ILogger<HomeController> logger)
         {
