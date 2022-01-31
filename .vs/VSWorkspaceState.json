@@ -2,7 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Views"
+    "\\Models",
+    "\\obj",
+    "\\Views",
+    "\\Views\\ActiveScoreSheet"
   ],
+  "SelectedNode": "\\Wizard.ScoreSheet.sln",
   "PreviewInSolutionExplorer": false
 }

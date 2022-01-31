@@ -39,6 +39,24 @@ button.accept-policy {
   line-height: inherit;
 }
 
+.table-sheet {
+    border-color: black;
+    font-size: 30px;
+    
+}
+
+.bid {
+    background-color: lightblue;
+    font-size: 16px
+}
+.tricks {
+    background-color: antiquewhite;
+    font-size: 16px
+}
+.score {
+    font-size: 25px
+}
+
 .footer {
   position: absolute;
   bottom: 0;

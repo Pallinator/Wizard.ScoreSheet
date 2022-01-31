@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zNHsNcPgCQ3PL1KTP6ykx2JLBpz/XBtOE6bY9FR8oFEAq7m0eOJA+a0OWQhHfTmT4aXNrFGTt17j0h6bvz6sXg==",
+  "dgSpecHash": "+GJpWqm90UfFL/xCXFmz6eGZUPSQ9UWLvopEvlqXr7z/nTron0IlzFKhvZPbPKJT4mzLco5SQahpdoIEHQgUDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pallinator\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
+  "projectFilePath": "C:\\Users\\Pallinator\\Source\\Repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pallinator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Pallinator\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
@@ -39,6 +39,7 @@
     "C:\\Users\\Pallinator\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.1\\microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
     "C:\\Users\\Pallinator\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
     "C:\\Users\\Pallinator\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.1\\microsoft.entityframeworkcore.sqlserver.6.0.1.nupkg.sha512",
+    "C:\\Users\\Pallinator\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.1\\microsoft.entityframeworkcore.tools.6.0.1.nupkg.sha512",
     "C:\\Users\\Pallinator\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Pallinator\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
     "C:\\Users\\Pallinator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

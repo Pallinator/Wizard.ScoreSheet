@@ -1,9 +1,37 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <div class="text-center">
     <h1 class="display-4">Wizard Score Sheet</h1>
     <textarea id="#playerName"></textarea>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+
+<div class="col-md-12">
+    <p>Wizard Score Sheet <strong id="wizardScoreSheet"></strong></p>
+
+    <input id="playerName"/>
+
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#wizardScoreSheet").text(wizard.scoresheet);
+    
+        $("#playerName").kendoComboBox({
+            dataSource: 
+            [{ PlayerID: 1, PlayerName:"Ash"}],
+            [{ PlayerID: 2, PlayerName:"Ash"}],
+            [{ PlayerID: 3, PlayerName:"Ash"}],
+            [{ PlayerID: 4, PlayerName:"Ash"}],
+            placeholder: "Select",
+            dataTextField: "EmployeeName",
+            dataValueField: "EmployeeID",
+            index: 0,
+            suggest: true,
+            filter:"contains"
+        });
+    });
+</script>

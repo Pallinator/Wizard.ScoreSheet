@@ -1,0 +1,1111 @@
+﻿++Solution 'Wizard.ScoreSheet' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Wizard.ScoreSheet.sln
+++Wizard.ScoreSheet
+i:{00000000-0000-0000-0000-000000000000}:Wizard.ScoreSheet
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\
+++Connected Services 
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:>2605
+++Dependencies
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:>2604
+++Properties
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\properties\
+++wwwroot
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\
+++css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\css\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\js\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\
+++kendoui
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\kendoui\
+++kendo.all.min.js.txt
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\kendoui\kendo.all.min.js.txt
+++lib
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\unix\lib\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm\lib\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm64\lib\
+++favicon.ico
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\favicon.ico
+++Controllers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\controllers\
+++ActiveScoreSheet.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\controllers\activescoresheet.cs
+++HomeController.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\controllers\homecontroller.cs
+++Models
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\models\
+++ErrorViewModel.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\models\errorviewmodel.cs
+++PlayerModel.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\models\playermodel.cs
+++Views
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\scopedcss\views\
+++ActiveScoreSheet
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\activescoresheet\
+++Index.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\home\index.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\playermodels\index.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\activescoresheet\index.cshtml
+++Home
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\home\
+++Privacy.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\home\privacy.cshtml
+++Shared
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\shared\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\scopedcss\views\shared\
+++_Layout.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\shared\_layout.cshtml
+++_Layout.cshtml.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\shared\_layout.cshtml.css
+++_ValidationScriptsPartial.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\_viewstart.cshtml
+++appsettings.Development.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\appsettings.development.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\appsettings.development.json
+++appsettings.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\appsettings.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\appsettings.json
+++Program.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\program.cs
+++README.md
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\readme.md
+++No service dependencies discovered
+++Analyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:analyzers
+++Frameworks
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:frameworks
+++Packages
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:packages
+++launchSettings.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\properties\launchsettings.json
+++site.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\css\site.css
+++site.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\js\site.js
+++bootstrap
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\
+++jquery
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery\
+++jquery-validation
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation-unobtrusive\
+++MessagePackAnalyzer
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.1)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:>2628
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:>2627
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:>2639
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:>2629
+++dist
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery\dist\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery\license.txt
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++jquery.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++bootstrap.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++Round.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\models\round.cs
+++Data
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\data\
+++WizardScoreSheetContext.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\data\wizardscoresheetcontext.cs
+++PlayerModelsController.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\controllers\playermodelscontroller.cs
+++PlayerModels
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\playermodels\
+++Create.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\playermodels\create.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\activescoresheet\create.cshtml
+++Delete.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\playermodels\delete.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\activescoresheet\delete.cshtml
+++Details.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\playermodels\details.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\activescoresheet\details.cshtml
+++Edit.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\playermodels\edit.cshtml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\views\activescoresheet\edit.cshtml
+++SQL Server Express LocalDB (Local) (ConnectionStrings:WizardScoreSheetContext)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:>2668
+++serviceDependencies.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\properties\servicedependencies.json
+++serviceDependencies.local.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\properties\servicedependencies.local.json
+++Migrations
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\migrations\
+++20220128193120_InitialCreate.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\migrations\20220128193120_initialcreate.cs
+++WizardScoreSheetContextModelSnapshot.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\migrations\wizardscoresheetcontextmodelsnapshot.cs
+++20220128193120_InitialCreate.Designer.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\migrations\20220128193120_initialcreate.designer.cs
+++PlayerModels1Controller.cs
+++PlayerModels1
+++NewFolder
+++.vs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\
+++sd
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\sd\
+++ProjectSettings.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\projectsettings.json
+++slnx.sqlite
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\slnx.sqlite
+++VSWorkspaceState.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\vsworkspacestate.json
+++634aee4f-d127-4cbf-9cfa-59647efda08f
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\sd\634aee4f-d127-4cbf-9cfa-59647efda08f\
+++config
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\config\
+++DesignTimeBuild
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\designtimebuild\
+++v16
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\v16\
+++v17
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\v17\
+++project-colors.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\project-colors.json
+++applicationhost.config
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\config\applicationhost.config
+++.dtbcache.v2
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\designtimebuild\.dtbcache.v2
+++.suo
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\v16\.suo
+++.futdcache.v1
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\v17\.futdcache.v1
+++HierarchyCache.v1.txt
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\v17\hierarchycache.v1.txt
+++workspaceFileList.bin
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\.vs\wizard.scoresheet\v17\workspacefilelist.bin
+++bin
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\
+++Debug
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\
+++Release
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\release\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\
+++net6.0
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\release\net6.0\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\
+++cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\
+++de
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\
+++es
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\
+++fr
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\
+++it
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\
+++ja
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\
+++ko
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\
+++pl
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\
+++pt-BR
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\
+++ref
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ref\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\release\net6.0\ref\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\ref\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\ref\
+++ru
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\
+++runtimes
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\
+++tr
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\
+++zh-Hans
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\
+++dotnet-aspnet-codegenerator-design.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+++Humanizer.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\humanizer.dll
+++MessagePack.Annotations.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\messagepack.annotations.dll
+++MessagePack.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\messagepack.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.Locator.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.build.locator.dll
+++Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.analyzerutilities.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Features.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.csharp.features.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Features.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.features.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.features.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Data.SqlClient.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.DiaSymReader.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.diasymreader.dll
+++Microsoft.DotNet.Scaffolding.Shared.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.dotnet.scaffolding.shared.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Identity.Client.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.VisualStudio.Debugger.Contracts.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.visualstudio.debugger.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++Newtonsoft.Json.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\newtonsoft.json.dll
+++NuGet.Common.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.common.dll
+++NuGet.Configuration.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.configuration.dll
+++NuGet.DependencyResolver.Core.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.dependencyresolver.core.dll
+++NuGet.Frameworks.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.frameworks.dll
+++NuGet.LibraryModel.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.librarymodel.dll
+++NuGet.Packaging.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.packaging.dll
+++NuGet.ProjectModel.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.projectmodel.dll
+++NuGet.Protocol.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.protocol.dll
+++NuGet.Versioning.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\nuget.versioning.dll
+++System.Composition.AttributedModel.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.drawing.common.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.runtime.caching.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\system.windows.extensions.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++Wizard.ScoreSheet.deps.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\wizard.scoresheet.deps.json
+++Wizard.ScoreSheet.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\wizard.scoresheet.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ref\wizard.scoresheet.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\ref\wizard.scoresheet.dll
+++Wizard.ScoreSheet.exe
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\wizard.scoresheet.exe
+++Wizard.ScoreSheet.pdb
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\wizard.scoresheet.pdb
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.pdb
+++Wizard.ScoreSheet.runtimeconfig.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\wizard.scoresheet.runtimeconfig.json
+++Wizard.ScoreSheet.staticwebassets.runtime.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\wizard.scoresheet.staticwebassets.runtime.json
+++Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.features.resources.dll
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.scripting.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.features.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.scripting.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.scripting.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.features.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\unix\
+++win
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-x86\
+++native
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm\native\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-x64\native\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-x86\native\
+++netcoreapp3.0
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++dotnet-aspnet-codegenerator-design.exe
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+++obj
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\
+++project.assets.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\project.assets.json
+++project.nuget.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\staticwebassets.pack.sentinel
+++Wizard.ScoreSheet.csproj.nuget.dgspec.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\wizard.scoresheet.csproj.nuget.dgspec.json
+++Wizard.ScoreSheet.csproj.nuget.g.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\wizard.scoresheet.csproj.nuget.g.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\wizard.scoresheet.csproj.nuget.g.props
+++Wizard.ScoreSheet.csproj.nuget.g.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\wizard.scoresheet.csproj.nuget.g.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\wizard.scoresheet.csproj.nuget.g.targets
+++scopedcss
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\scopedcss\
+++staticwebassets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\staticwebassets\
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\apphost.exe
+++project.razor.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\project.razor.json
+++staticwebassets.build.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\staticwebassets.development.json
+++Wizard.ScoreSheet.AssemblyInfo.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.assemblyinfo.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\wizard.scoresheet.assemblyinfo.cs
+++Wizard.ScoreSheet.AssemblyInfoInputs.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.assemblyinfoinputs.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\wizard.scoresheet.assemblyinfoinputs.cache
+++Wizard.ScoreSheet.assets.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.assets.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\wizard.scoresheet.assets.cache
+++Wizard.ScoreSheet.csproj.AssemblyReference.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.csproj.assemblyreference.cache
+++Wizard.ScoreSheet.csproj.CopyComplete
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.csproj.copycomplete
+++Wizard.ScoreSheet.csproj.CoreCompileInputs.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.csproj.corecompileinputs.cache
+++Wizard.ScoreSheet.csproj.FileListAbsolute.txt
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.csproj.filelistabsolute.txt
+++Wizard.ScoreSheet.GeneratedMSBuildEditorConfig.editorconfig
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.generatedmsbuildeditorconfig.editorconfig
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\wizard.scoresheet.generatedmsbuildeditorconfig.editorconfig
+++Wizard.ScoreSheet.genruntimeconfig.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.genruntimeconfig.cache
+++Wizard.ScoreSheet.GlobalUsings.g.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.globalusings.g.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\wizard.scoresheet.globalusings.g.cs
+++Wizard.ScoreSheet.MvcApplicationPartsAssemblyInfo.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.mvcapplicationpartsassemblyinfo.cache
+++Wizard.ScoreSheet.RazorAssemblyInfo.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.razorassemblyinfo.cache
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\wizard.scoresheet.razorassemblyinfo.cache
+++Wizard.ScoreSheet.RazorAssemblyInfo.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\wizard.scoresheet.razorassemblyinfo.cs
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\release\net6.0\wizard.scoresheet.razorassemblyinfo.cs
+++bundle
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\scopedcss\bundle\
+++projectbundle
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\scopedcss\projectbundle\
+++Wizard.ScoreSheet.styles.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\scopedcss\bundle\wizard.scoresheet.styles.css
+++Wizard.ScoreSheet.bundle.scp.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\scopedcss\projectbundle\wizard.scoresheet.bundle.scp.css
+++_Layout.cshtml.rz.scp.css
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+++Wizard.ScoreSheet.sln
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wizard.scoresheet.sln
+++serviceDependencies.local.json.user
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\properties\servicedependencies.local.json.user
+++Imports
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:>2708
+++Sdk.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Microsoft.Common.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NuGet.ImportBefore.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\.nuget\packages\microsoft.entityframeworkcore.design\6.0.1\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++Microsoft.NET.ILLink.Tasks.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Sdk.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.Managed.Core.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++Wizard.ScoreSheet.csproj.user
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\users\pallinator\source\repos\wizard.scoresheet\wizard.scoresheet.csproj.user
+++Microsoft.NET.props
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++Microsoft.DesktopBridge.Common.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{634aee4f-d127-4cbf-9cfa-59647efda08f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets

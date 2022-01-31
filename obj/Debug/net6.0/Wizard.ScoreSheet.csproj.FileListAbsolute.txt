@@ -491,3 +491,4 @@ C:\Users\Pallinator\Source\Repos\Wizard.ScoreSheet\obj\Debug\net6.0\Wizard.Score
 C:\Users\Pallinator\Source\Repos\Wizard.ScoreSheet\obj\Debug\net6.0\ref\Wizard.ScoreSheet.dll
 C:\Users\Pallinator\Source\Repos\Wizard.ScoreSheet\obj\Debug\net6.0\Wizard.ScoreSheet.pdb
 C:\Users\Pallinator\Source\Repos\Wizard.ScoreSheet\obj\Debug\net6.0\Wizard.ScoreSheet.genruntimeconfig.cache
+C:\Users\Pallinator\Source\Repos\Wizard.ScoreSheet\obj\Debug\net6.0\Wizard.ScoreSheet.csproj.AssemblyReference.cache

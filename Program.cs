@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Wizard.ScoreSheet.Data;
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<WizardScoreSheetContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("WizardScoreSheetContext")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

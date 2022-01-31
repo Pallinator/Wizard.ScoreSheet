@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MoQwTTwo3PGFv6c0kDuLVky+BMiNFOlBt/7rgir5czE=",
+  "Hash": "hyD0luA4eIrFBbpRtVr9JkZlD6vbUjfhJZovkT9gxDY=",
   "Source": "Wizard.ScoreSheet",
   "BasePath": "_content/Wizard.ScoreSheet",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Pallinator\\Source\\Repos\\Wizard.ScoreSheet\\wwwroot\\kendoui\\kendo.all.min.js.txt",
+      "SourceId": "Wizard.ScoreSheet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pallinator\\Source\\Repos\\Wizard.ScoreSheet\\wwwroot\\",
+      "BasePath": "_content/Wizard.ScoreSheet",
+      "RelativePath": "kendoui/kendo.all.min.js.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\kendoui\\kendo.all.min.js.txt"
     },
     {
       "Identity": "C:\\Users\\Pallinator\\Source\\Repos\\Wizard.ScoreSheet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
