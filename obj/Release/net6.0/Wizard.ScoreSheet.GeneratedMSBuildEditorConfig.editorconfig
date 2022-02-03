@@ -8,77 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Wizard.ScoreSheet
 build_property.RootNamespace = Wizard.ScoreSheet
-build_property.ProjectDir = C:\Users\Pallinator\Source\Repos\Wizard.ScoreSheet\
+build_property.ProjectDir = C:\Users\bbric\source\repos\Wizard.ScoreSheet\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Pallinator\Source\Repos\Wizard.ScoreSheet
+build_property.MSBuildProjectDirectory = C:\Users\bbric\source\repos\Wizard.ScoreSheet
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Create.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlU2NvcmVTaGVldFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Delete.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlU2NvcmVTaGVldFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Details.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlU2NvcmVTaGVldFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Edit.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlU2NvcmVTaGVldFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Index.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/ActiveScoreSheet/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlU2NvcmVTaGVldFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/Home/Index.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/Home/Privacy.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/PlayerModels/Create.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/PlayerModels/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyTW9kZWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/PlayerModels/Delete.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/PlayerModels/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyTW9kZWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/PlayerModels/Details.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/PlayerModels/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyTW9kZWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/PlayerModels/Edit.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/PlayerModels/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyTW9kZWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/PlayerModels/Index.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/PlayerModels/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyTW9kZWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/Shared/Error.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/_ViewImports.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/_ViewStart.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pallinator/Source/Repos/Wizard.ScoreSheet/Views/Shared/_Layout.cshtml]
+[C:/Users/bbric/source/repos/Wizard.ScoreSheet/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rn9pf0xjq9

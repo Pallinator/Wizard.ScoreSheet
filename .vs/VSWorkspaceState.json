@@ -2,11 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Models",
-    "\\obj",
     "\\Views",
-    "\\Views\\ActiveScoreSheet"
+    "\\Views\\ActiveScoreSheet",
+    "\\Views\\PlayerModels"
   ],
-  "SelectedNode": "\\Wizard.ScoreSheet.sln",
+  "SelectedNode": "\\Views\\ActiveScoreSheet\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
