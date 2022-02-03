@@ -46,7 +46,7 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
+    @*@foreach (var item in model) {
         <tr>   
             <td>
                 @Html.DisplayFor(modelItem => item.PlayerName)
@@ -71,7 +71,7 @@
         </tr>
 }
     </tbody>
-</table>
+</table>*@
 
 
 
@@ -126,6 +126,22 @@
           </div>
         </div>      
 </div>
+<table color=black>
+    <div>class="container">
+          <div class="row">
+            <div class="col">
+                1
+            </div>
+            <div "class="col">
+                <div class="row bid">
+                  -
+                </div>
+                <div class="row">
+                  -
+                </div>
+            </div>
+          </div>
+        </div>  
 
 <form asp-action="Enter Bid">
         <input type="hidden" asp-for="Id" />
