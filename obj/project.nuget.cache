@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yg/W22hPqjZrwK3UYHx848AiRT4v0bZ55eBcK4uEG1VZa9xvD0oKhzMVOyT1ayA+HxNISSpvz0kCj7q0RYN/1w==",
+  "dgSpecHash": "a2eEh8kepYpEETLigpuSkOc5adkq/hAdb7B15jh7gAnvhL7uolc9LP8Ae5mIGZz4EDQLSzXINM3J/PDY4PYfzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bbric\\Source\\Repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
+  "projectFilePath": "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bbric\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bbric\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

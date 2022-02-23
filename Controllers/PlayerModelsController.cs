@@ -13,10 +13,6 @@ namespace Wizard.ScoreSheet.Controllers
 {
     public class PlayerModelsController : Controller
     {
-        public bool GetEnumerator
-        {
-            get;
-        }
         private readonly WizardScoreSheetContext _context;
 
         public PlayerModelsController(WizardScoreSheetContext context)

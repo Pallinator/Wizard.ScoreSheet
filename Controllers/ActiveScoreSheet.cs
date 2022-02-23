@@ -7,16 +7,20 @@ namespace Wizard.ScoreSheet.Controllers
     public class ActiveScoreSheet : Controller
     {
         public List<PlayerModel> globalPlayers = new List<PlayerModel>();
+        private int v;
 
-        
+        public int Bid { get; private set; }
+        public int Score { get; private set; } = 0;
+        public int Score2 { get; private set; }
+        public int trick { get; private set; }
+        [HttpGet] 
 
         public IActionResult Index()
         {
             return View();
         }
 
-
-        public void AddPlayer()
+        public void AddPlayer(string name)
         {
             // Scope
             // outer variable
@@ -24,7 +28,7 @@ namespace Wizard.ScoreSheet.Controllers
 
             if (globalPlayers.Count() == 0)
             {
-                insideFunction.PlayerName = "Paul"; // playerName.Value(); -- Dynamic variable, a variable that can changed based on user input or function logic
+                insideFunction.PlayerName = name; // playerName.Value(); -- Dynamic variable, a variable that can changed based on user input or function logic
                 insideFunction.PlayerTurn = false;
                 insideFunction.Dealer = false;
                 insideFunction.CurrentScore = 0;

@@ -2,11 +2,11 @@
 
 namespace Wizard.ScoreSheet.Models
 {
-    public class ActiveScoreSheet : Controller
+    public class ActiveScoreSheet
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+           public List<PlayerModel> Players { get; set; }
+            public int Bid { get; set; }
+            public int Round { get; set; }
+            public int Score { get; set; }
     }
 }

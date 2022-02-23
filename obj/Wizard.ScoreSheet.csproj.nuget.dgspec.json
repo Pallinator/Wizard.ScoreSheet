@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bbric\\Source\\Repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj": {}
+    "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bbric\\Source\\Repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj": {
+    "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bbric\\Source\\Repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
+        "projectUniqueName": "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
         "projectName": "Wizard.ScoreSheet",
-        "projectPath": "C:\\Users\\bbric\\Source\\Repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
+        "projectPath": "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\Wizard.ScoreSheet.csproj",
         "packagesPath": "C:\\Users\\bbric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bbric\\Source\\Repos\\Wizard.ScoreSheet\\obj\\",
+        "outputPath": "C:\\Users\\bbric\\source\\repos\\Wizard.ScoreSheet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
